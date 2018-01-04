@@ -1,0 +1,29 @@
+{
+  "name": "express-trimmer",
+  "version": "0.0.1",
+  "description": "An Express middleware to trim all incoming request values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ankibalyan/express-trimmer.git"
+  },
+  "keywords": [
+    "express",
+    "connect",
+    "middleware",
+    "trim",
+    "body",
+    "query",
+    "params",
+    "object"
+  ],
+  "author": "Ankit Kumar <ankit.kr.balyan@gmail.com> (https://twitter.com/ankibalyan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankibalyan/express-trimmer/issues"
+  },
+  "homepage": "https://github.com/ankibalyan/express-trimmer#readme"
+}
