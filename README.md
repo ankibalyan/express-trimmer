@@ -10,7 +10,7 @@ npm i express-trimmer
 ## How to use
 
 ```
-const trimmer = require('trim-request');
+const trimmer = require('express-trimmer');
 
 ...
 // app initialization
