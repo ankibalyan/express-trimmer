@@ -1,6 +1,6 @@
 {
   "name": "express-trimmer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Express middleware to trim all incoming request values.",
   "main": "index.js",
   "scripts": {
