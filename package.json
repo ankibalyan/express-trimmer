@@ -1,6 +1,6 @@
 {
   "name": "express-trimmer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An Express middleware to trim all incoming request values.",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,9 @@
     "params",
     "object"
   ],
+  "peerDependencies": {
+    "express": "^4.15.0"
+  },
   "author": "Ankit Kumar <ankit.kr.balyan@gmail.com> (https://twitter.com/ankibalyan)",
   "license": "MIT",
   "bugs": {
