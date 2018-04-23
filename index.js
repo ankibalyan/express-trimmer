@@ -5,7 +5,7 @@ function trimValues(input) {
         return trimValues(input[prop]);
       }
 
-      if (input[prop] && input[prop].constructor === String && input.length) {
+      if (input[prop] && input[prop].constructor === String && input[prop].length) {
         input[prop] = input[prop].trim();
       }
     }
